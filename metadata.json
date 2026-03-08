@@ -1,0 +1,5 @@
+{
+  "name": "MarketerAI Suite",
+  "description": "A comprehensive AI marketing platform featuring an advanced chatbot, image generator, and a full email marketing campaign creator using Google's Gemini and Imagen models.",
+  "requestFramePermissions": []
+}
